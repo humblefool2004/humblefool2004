@@ -6,7 +6,7 @@ I'm a Backend Developer focused on building high-performance systems with **Java
 
 - 🛠 **Current Stack:** Java, Spring Boot 3, PostgreSQL, Docker.
 - 🐧 **OS:** Tuxedo OS (Linux Power User).
-- 🧠 **Problem Solving:** 150+ LeetCode Solved.
+- 🧠 **Problem Solving:** 170+ LeetCode Solved.
 - 📱 **Project:** [ai-ios-schedule](https://github.com/humblefool2004/ai-ios-schedule) (AI-Frontend Integration).
 
 ---
